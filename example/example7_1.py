@@ -1,5 +1,7 @@
 #! /usr/bin/python
 
+# match the word on the end of string
+
 s = '100 NORTH MAIN ROAD'
 s1 = s.replace('ROAD', 'RD.')
 print 's1 ', s1
